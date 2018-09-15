@@ -1,1 +1,3 @@
-text
+[submodule "XXX"]
+    path = XXX
+    url = git@github.com:YYY/XXX.git
